@@ -1,0 +1,31 @@
+** Additional Resources
+
+* Notable Books
+> The Phoenix Project (by Gene Kim, Kevin Behr, George Spafford) - A Novel About IT, DevOps, and Helping Your Business Win
+	http://itrevolution.com/books/phoenix-project-devops-book/
+> Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (by Jez Humble, David Farley) - The principles and technical practices that enable rapid, incremental delivery of high quality, valuable new functionality to users.
+	http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0
+> Lean Enterprise: How High Performance Organizations Innovate at Scale (by Jez Humble, Joanne Molesky, Barry O'Reilly) - Lean and Agile principles and patterns to help you move fast at scale - and demonstrates why and how to apply these methodologies throughout your organization, rather than with just one department or team.
+	http://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425
+> Building a DevOps Culture (by Mandi Walls) - Free Kindle book - DevOps is as much about culture as it is about tools
+	http://smile.amazon.com/gp/product/B00CBM1WFC
+
+* Notable Presentations
+> Short history of DevOps - video by Damon Edwards  https://www.youtube.com/watch?v=o7-IuYS0iSE
+> Chef Style DevOps Kungfu - Adam Jacob Keynote - ChefConf 2015 https://www.youtube.com/watch?v=_DEToXsgrPc
+> Jez Humble Keynote - ChefConf 2015 https://www.youtube.com/watch?v=L1w2_AY82WY
+> Leading the Horses to Drink - Support and Initiate a DevOps transformation by Damon Edwards. https://vimeo.com/69079272
+
+* Additional DevOps related blogs and sites
+> What DevOps means to me - an explanation of the components that make up CAMS (Culture, Automation, Measurement, Sharing), as well additional thoughts on what DevOps is and is not - by John Willis  https://www.chef.io/blog/2010/07/16/what-devops-means-to-me/
+> dev2ops - Delivering Change in a DevOps and Cloud World  http://dev2ops.org/
+the agile admin - blog on topics of DevOps, agile operations, cloud computing, infrastructure automation, Web security (especially AppSec), transparency, open source, monitoring, Web performance optimization, and more. http://theagileadmin.com/
+> The DevOps checklist - This checklist is comprised of 48 items you can use to gauge the maturity of your software delivery competency, and form a baseline to measure your future improvements. http://devopschecklist.com/
+> DevOps – A Crash Course by Matt Stratton. A lot of links to good resources on DevOps topics. http://www.mattstratton.com/
+
+* Additional Resources by Nutanix
+> The Nutanix Bible - Brief History of datacenters, virtualisation, webscale architecture and an explanation of Nutanix hyperconverged architecture. http://stevenpoitras.com/the-nutanix-bible/
+> Hyperconverged Infrastructure Guide http://go.nutanix.com/webscale-101-hyper-converged-infrastructure-guide.html
+> Nutanix Education portal http://www.nutanix.com/company/education/
+> Nutanix Education YouTube channel https://www.youtube.com/channel/UCJupSMWQRKQTvkb2CfkW0Eg
+> Nutanix NEXT community site http://next.nutanix.com/
